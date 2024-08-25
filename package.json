@@ -1,6 +1,6 @@
 {
 	"name": "multicast-stream",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "Create a multicast stream that lets multiple consumers independently read the same data",
 	"license": "MIT",
 	"repository": "sindresorhus/multicast-stream",
